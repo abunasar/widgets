@@ -19,7 +19,7 @@
 
 ### Create a replica
 
-- Install Elkowar’s Wacky Widgets - [Instructions](https://elkowar.github.io/eww/main)
+- Install Elkowar’s Wacky Widgets - [Instructions](https://elkowar.github.io/eww/)
 - Create eww config directory : **`~/.config/eww`**
 - Copy `eww` executable to **`$HOME/.bin`** (create directory if not exist)
 - Clone this repository
